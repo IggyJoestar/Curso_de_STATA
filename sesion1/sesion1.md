@@ -1,1 +1,2 @@
-##Esta es la primera clase
+# Sesion 1 Stata
+## temas:
