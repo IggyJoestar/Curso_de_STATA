@@ -12,17 +12,7 @@ Para llevar a cabo un estudio estadístico es esencial conocer a quién va dirig
 
 Para iniciar con la recolección de datos del estudio, es necesario hacer una planificación previa. Esta misma planificación tiene una serie de pasos, como los siguientes:
 
-```flow
-st=>start: Escogemos la variable a analizar
-         ----¿Qué estamos buscando?-----
-op=>operation: Definimos el tipo de muestreo
-op2=>operation: Determinamos el tamaño de muestra
----¿Cuántos datos necesitamos?----
-e=>end: Terminamos con la fase previa
 
-st->op->op2->e
-
-```
 ### Determinando el tamaño de muestra, el poder y el sesgo
 
 Para cualquier tipo de estudio siempre es esencial determinar el número de personas o datos que nos servirán de muestra "n".
@@ -55,3 +45,9 @@ $$\frac{NZ_{a}^{2}\sigma^2}{d^2(N-1)+Z_{a}^{2}\sigma^2}$$
 
 
 ### Ejercicios
+
+1. El Ministerio del Trabajo y Promoción del Empleo (MTPE), le encarga realizar un estudio para conocer el salario medio de los egresados de la carrera de economía en Lima Metropolitana. Por un informe reciente de la SUNEDU sabes que el total de economistas egresados laborando en Lima Metropolitana es 3 300 y que la desviación de sus sueldos es 400 soles. ¿De que tamaño escogerías tu muestra si se quiere que el nivel de confianza sea 95% ,con un error no mayor a los 50 soles?
+
+2.  Apoyo Consultorías en una investigación reciente sostiene que el salario promedio de un egresado de la carrera de economía en Lima Metropolitana es 2800. Sin embargo, usted cree por su experencia que el valor es mucho mayor, usted cree que está por los 3000. ¿Que prueba de hipotesis usará? ¿Que cantidad de muestra necesitará para un nivel de confianza de 95%?
+
+3. El generente muy interesado en su hipotesis, piensa apoyar su proyecto para cuestionar encontrados por Apoyo Consultorías, por ello le pide a usted que le muestre la potencia(power) de la prueba estadística con 40, 60, 80, 100 y 120 datos. ¿Cómo le mostrarías los valores del power para cada tamaño de muestra? Si su jefe está dispuesto a financiar un estudio con una muestra de 130 voluntarios, ¿Ese estudio tendrá un nivel de significancia menor al 1%?
