@@ -66,7 +66,7 @@ Sintaxis:
 
 ### Ejercicios
 
-1. El Ministerio del Trabajo y Promoción del Empleo (MTPE), le encarga realizar un estudio para conocer el salario medio de los egresados de la carrera de economía en Lima Metropolitana. Por un informe reciente de la SUNEDU sabes que el total de economistas egresados laborando en Lima Metropolitana es 3 300 y que la varianza de sus sueldos es 400 soles. ¿De que tamaño escogerías tu muestra si se quiere que el nivel de confianza sea 95% ,con un error no mayor a los 50 soles?
+1. El Ministerio del Trabajo y Promoción del Empleo (MTPE), le encarga realizar un estudio para conocer el salario medio de los egresados de la carrera de economía en Lima Metropolitana. Por un informe reciente de la SUNEDU sabes que el total de economistas egresados laborando en Lima Metropolitana es 3 300 y que la desviación estándar de sus sueldos es 400 soles. ¿De que tamaño escogerías tu muestra si se quiere que el nivel de confianza sea 95% ,con un error no mayor a los 50 soles?
 
 2.  Apoyo Consultorías en una investigación reciente sostiene que el salario promedio de un egresado de la carrera de economía en Lima Metropolitana es 2800. Sin embargo, usted cree por su experencia que el valor es mucho mayor, usted cree que está por los 3000. ¿Que prueba de hipotesis usará? ¿Que cantidad de muestra necesitará para un nivel de confianza de 95%?
 
