@@ -41,8 +41,23 @@ $$\frac{Z_{a}^{2}\sigma^2}{d^2}$$
 
 $$\frac{NZ_{a}^{2}\sigma^2}{d^2(N-1)+Z_{a}^{2}\sigma^2}$$
 
-### 
+## Conociendo el comando Power
+Sintaxis:
 
+| Comando | Metodo | Argumentos |
+| ------------- | ------------- |---------|
+| power  | onemean  | u1 u0 ,sd() |
+
+### Para la media:
+| Métodos | Argumentos | 
+| ------------- | ------------- |
+| onemean  | u1 u0 ,sd() |
+| twomeans  | u1 u0 , sd1() sd2() |
+
+### Para la proporción:
+| Métodos | Argumentos | 
+| ------------- | ------------- |
+| oneproportion  | p1 p2  |
 
 ### Ejercicios
 
