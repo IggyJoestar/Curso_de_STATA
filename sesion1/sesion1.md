@@ -25,9 +25,12 @@ A continuación se presentan las fórmulas para cada caso:
 $$\frac{Z_{a}^{2}pq}{d^2}$$
 
 Donde:
+
 p: proporción objetivo
-q: complemento de la proporción objetivo (1-p
-$z_{a}$: El valor de "a" en la tabla Z.
+
+q: complemento de la proporción objetivo (1-p)
+
+$Z_{a}$: El valor de "a" en la tabla Z.
 
 #### Para una Proporción (Con población total pequeña o conocida)
 
