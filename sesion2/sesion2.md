@@ -21,7 +21,7 @@
 
 
 ```STATA
-*cargamos la base de datos
+*cargamos la base de datos (ojo cargar a su dirección del archivo)
 use"C:\Users\Computer\Documents\GitHub\Curso_de_STATA\sesion2\stats_players_premier_2017-2018.dta", clear
 
 *hacemos summarize a una variable que nos interese
@@ -36,7 +36,7 @@ set seed 1
 sample 35, count
 ```
 
-###creando el intervalo de confianza
+### Creando el intervalo de confianza
 
 ```STATA
 g pr =r(N)/ObsTot
