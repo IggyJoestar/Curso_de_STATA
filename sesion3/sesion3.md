@@ -19,13 +19,13 @@ scalars:
 ```
 el valor de "k" es la división de *ObsTot* sobre "n". Cabe destacar que si el valor es un decimal este se redondea hacia abajo.
 ```STATA
-di 'valor de k:' ObsTot/n
+di "valor de k:" ObsTot/n
 scalar k=ObsTot/n
 ```
 Una vez que tenemos el valor de "k" tenemos que decir que el primer individuo debe ser seleccionado entre los primeros k individuos aleatoriamente
 
 ```STATA
-di 'el número seleccionado es:' round(1+(k-1)*uniform())
+di "el número seleccionado es:" round(1+(k-1)*uniform())
 scalar select_number=round(1+(k-1)*uniform())
 ```
 luego dropeamos los datos que anteriores al número seleccionado
