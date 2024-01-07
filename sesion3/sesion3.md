@@ -31,7 +31,7 @@ ahora generamos al variable posición que cuente desde cero y luego que cree un 
 
 ```STATA
 g pos=_n-1
-g filtro=mod(pos, 10)
+g filtro=mod(pos, K)
 keep if filtro==0
 ```
 Para finalizar ejecutamos nuestro factor de expansión como en el anterior caso.
