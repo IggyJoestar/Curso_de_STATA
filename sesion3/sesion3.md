@@ -19,8 +19,8 @@ scalars:
 ```
 el valor de "k" es la división de *ObsTot* sobre "n". Cabe destacar que si el valor es un decimal este se redondea hacia abajo.
 ```STATA
-di "valor de k:" ObsTot/n
-scalar k=ObsTot/n
+scalar k=round($ObsTot/$n)
+di k
 ```
 Una vez que tenemos el valor de "k" tenemos que decir que el primer individuo debe ser seleccionado entre los primeros k individuos aleatoriamente
 
