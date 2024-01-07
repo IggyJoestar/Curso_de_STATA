@@ -26,11 +26,14 @@ Una vez que tenemos el valor de "k" tenemos que decir que el primer individuo de
 
 ```STATA
 di 'el número seleccionado es:' round(1+(k-1)*uniform())
+scalar select_number=round(1+(k-1)*uniform())
 ```
 luego dropeamos los datos que anteriores al número seleccionado
 
 ```STATA
-di 'el número seleccionado es:' round(1+(k-1)*uniform())
+g snum=_n
+br snum
+drop if snum<select_number
 ```
 ahora generamos al variable posición que cuente desde cero y luego que cree un filtro ayudandonos de ”mod()”, una función de estata para hallar el resto. Para culminar con un filtro donde se nos muestre todos los valores que contienen esa diferencia de k elementos.
 
