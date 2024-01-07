@@ -39,3 +39,18 @@ g pos=n_1
 filtro=mod(pos, 10)
 keep if filtro==0
 ```
+Para finalizar ejecutamos nuestro factor de expansión como en el anterior caso.
+
+```STATA
+g pr =r(N)/ObsTot
+
+g factor= 1/pr
+
+svyset[pw= factor]
+*creamos el intervalo de confianza
+svy: mean age
+```
+Adicionalmente si queremos ver la ventaja de este muestreo frente al aleatorio simple. Ejecutamos el siguiente código, que compara las desviaciones estandar.
+```STATA
+estat effect
+```
