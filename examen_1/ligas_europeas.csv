@@ -1,0 +1,97 @@
+pos,points,matches_played,wins,draws,losses,goals_for,goals_against,goal_diff,top_scorer,liga
+1,45,20,13,13,1,43,18,+25,Mohamed Salah - 14,premier
+2,42,20,13,13,4,43,27,+16,Ollie Watkins - 9,premier
+3,40,19,12,12,3,45,21,+24,Erling Haaland - 14,premier
+4,40,19,12,12,4,37,20,+17,Bukayo Saka - 6,premier
+5,39,20,12,12,5,42,29,+13,Son Heung-min - 12,premier
+6,34,20,10,10,6,33,30,+3,Jarrod Bowen - 11,premier
+7,31,20,8,8,5,38,33,+5,João Pedro - 7,premier
+8,31,20,10,10,9,22,27,-5,Scott McTominay - 5,premier
+9,29,20,9,9,9,39,29,+10,Alexander Isak - 9,premier
+10,28,20,8,8,8,34,31,+3,Cole Palmer - 8,premier
+11,28,20,8,8,8,30,31,-1,Hwang Hee-chan - 10,premier
+12,25,19,7,7,8,28,35,-7,Dominic Solanke - 12,premier
+13,24,19,7,7,10,28,35,-7,Raúl Jiménez - 5,premier
+14,21,20,5,5,9,22,29,-7,Odsonne Édouard - 6,premier
+15,20,20,5,5,10,24,35,-11,Chris Wood - 7,premier
+16,19,20,5,5,10,26,31,-5,Bryan Mbeumo - 7,premier
+17,16,20,8,8,10,24,28,-4,Abdoulaye Doucouré - 6,premier
+18,15,20,4,4,12,23,37,-14,Elijah Adebayo - 5,premier
+19,11,20,3,3,15,20,41,-21,Lyle Foster - 4,premier
+20,9,20,2,2,15,15,49,-34,"Oliver McBurnie, Cameron Archer - 3",premier
+1,48,19,15,15,1,40,11,+29,Jude Bellingham - 13,la liga
+2,48,19,15,15,1,46,24,+22,Artem Dovbyk - 11,la liga
+3,41,19,12,12,2,36,22,+14,Robert Lewandowski - 8,la liga
+4,38,19,11,11,3,36,19,+17,"Iñaki Williams, Gorka Guruzeta - 8",la liga
+5,38,19,12,12,5,39,23,+16,Álvaro Morata - 12,la liga
+6,32,19,8,8,3,30,19,+11,Mikel Oyarzabal - 7,la liga
+7,28,19,6,6,3,21,20,+1,Willian José - 6,la liga
+8,26,19,6,6,5,24,25,-1,Borja Mayoral - 12,la liga
+9,26,19,7,7,7,22,23,-1,Hugo Duro - 7,la liga
+10,25,19,7,7,8,16,17,-1,Kirian Rodríguez - 3,la liga
+11,23,19,5,5,6,18,24,-6,Álvaro García - 4,la liga
+12,22,19,6,6,9,22,29,-7,Ante Budimir - 9,la liga
+13,20,19,5,5,10,18,27,-9,Samuel Omorodion - 4,la liga
+14,19,19,5,5,10,27,38,-11,Gerard Moreno - 9,la liga
+15,18,19,3,3,7,17,23,-6,Abdón Prats - 5,la liga
+16,16,19,3,3,10,25,30,-5,Youssef En-Nesyri - 5,la liga
+17,16,19,3,3,9,20,29,-9,Jørgen Strand Larsen - 7,la liga
+18,15,19,2,2,8,14,26,-12,Chris Ramos - 5,la liga
+19,11,19,2,2,12,22,40,-18,"Myrto Uzuni, Bryan Zaragoza - 6",la liga
+20,5,19,0,0,14,19,43,-24,Sergio Arribas - 5,la liga
+1,42,16,13,13,0,46,12,+34,Victor Boniface - 10,bundesliga
+2,38,15,12,12,1,49,15,+34,Harry Kane - 21,bundesliga
+3,34,16,11,11,4,37,19,+18,Serhou Guirassy - 17,bundesliga
+4,33,16,10,10,3,38,17,+21,Loïs Openda - 11,bundesliga
+5,27,16,7,7,3,30,25,+5,"Julian Brandt, Niclas Füllkrug... - 5",bundesliga
+6,24,16,6,6,4,26,20,+6,Omar Marmoush - 7,bundesliga
+7,24,16,7,7,6,32,30,+2,"Andrej Kramarić, Maximilian Beier - 6",bundesliga
+8,24,16,7,7,6,21,26,-5,Lucas Höler - 5,bundesliga
+9,20,16,6,6,8,25,32,-7,"Tim Kleindienst, Eren Dinkçi - 6",bundesliga
+10,19,16,6,6,9,20,27,-7,Jonas Wind - 9,bundesliga
+11,18,16,4,4,6,24,31,-7,Ermedin Demirović - 8,bundesliga
+12,17,16,4,4,7,31,35,-4,Alassane Pléa - 7,bundesliga
+13,16,16,4,4,8,23,30,-7,Marvin Ducksch - 7,bundesliga
+14,16,16,3,3,6,18,33,-15,Takuma Asano - 5,bundesliga
+15,13,16,4,4,10,17,31,-14,"Robin Gosens, Kevin Behrens - 4",bundesliga
+16,10,15,1,1,8,13,28,-15,"Lee Jae-sung, Anthony Caci... - 2",bundesliga
+17,10,16,2,2,10,10,28,-18,Davie Selke - 4,bundesliga
+18,10,16,2,2,10,20,41,-21,Tim Skarke - 6,bundesliga
+1,48,19,15,15,1,44,9,+35,Lautaro Martínez - 16,serie_a
+2,46,19,14,14,1,29,12,+17,Dušan Vlahović - 7,serie_a
+3,39,19,12,12,4,35,20,+15,Olivier Giroud - 9,serie_a
+4,33,19,10,10,6,27,19,+8,"Giacomo Bonaventura, Nicolás González - 6",serie_a
+5,32,19,8,8,3,22,16,+6,Joshua Zirkzee - 7,serie_a
+6,30,19,9,9,7,30,21,+9,Ademola Lookman - 7,serie_a
+7,30,19,9,9,7,23,20,+3,Ciro Immobile - 4,serie_a
+8,29,19,8,8,6,31,21,+10,Romelu Lukaku - 8,serie_a
+9,28,19,8,8,7,28,24,+4,Victor Osimhen - 7,serie_a
+10,27,19,7,7,6,18,18,0,Duván Zapata - 4,serie_a
+11,25,19,6,6,6,19,20,-1,Andrea Colpani - 6,serie_a
+12,21,19,5,5,8,20,24,-4,Albert Guðmundsson - 8,serie_a
+13,21,19,4,4,6,20,25,-5,Nikola Krstović - 4,serie_a
+14,19,19,5,5,10,26,33,-7,Domenico Berardi - 9,serie_a
+15,19,19,5,5,10,25,34,-9,Matìas Soulé - 8,serie_a
+16,17,19,2,2,6,19,30,-11,Lorenzo Lucca - 6,serie_a
+17,15,19,3,3,10,17,32,-15,Leonardo Pavoletti - 4,serie_a
+18,14,19,3,3,11,16,26,-10,Cyril Ngonge - 5,serie_a
+19,13,19,3,3,12,10,33,-23,Francesco Caputo - 3,serie_a
+20,12,19,2,2,11,16,38,-22,"Antonio Candreva, Boulaye Dia - 4",serie_a
+1,40,17,12,12,1,42,14,+28,Kylian Mbappé - 18,ligue_1
+2,35,17,10,10,2,19,9,+10,Terem Moffi - 6,ligue_1
+3,33,17,10,10,4,33,22,+11,Wissam Ben Yedder - 8,ligue_1
+4,31,17,9,9,4,25,15,+10,"Romain Del Castillo, Kamory Doumbia - 5",ligue_1
+5,28,17,7,7,3,21,14,+7,Jonathan David - 5,ligue_1
+6,27,17,7,7,4,25,18,+7,Pierre-Emerick Aubameyang - 5,ligue_1
+7,26,17,7,7,5,21,17,+4,Wesley Saïd - 4,ligue_1
+8,26,17,8,8,7,22,23,-1,Teddy Teuma - 4,ligue_1
+9,23,17,6,6,6,18,22,-4,Emanuel Emegha - 4,ligue_1
+10,19,17,4,4,6,23,22,+1,Benjamin Bourigeaud - 4,ligue_1
+11,18,17,4,4,6,19,21,-2,Akor Adams - 7,ligue_1
+12,19,17,4,4,6,16,19,-3,"Nabil Alioui, Mohamed Lamine Bayo - 4",ligue_1
+13,18,17,5,5,9,19,28,-9,Mostafa Mohamed - 6,ligue_1
+14,16,17,4,4,9,16,27,-11,Alexandre Lacazette - 7,ligue_1
+15,16,17,4,4,9,16,27,-11,"Ablie Jallow, Cheikh Tidiane Sabaly - 3",ligue_1
+16,14,17,2,2,7,15,23,-8,Thijs Dallinga - 5,ligue_1
+17,12,17,2,2,9,21,35,-14,Romain Faivre - 5,ligue_1
+18,11,17,2,2,10,11,26,-15,"Muhammed Cham, Shamar Nicholson - 2",ligue_1
