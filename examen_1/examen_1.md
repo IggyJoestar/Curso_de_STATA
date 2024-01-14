@@ -1,5 +1,7 @@
 # Examen 1 _ Puntos promedio en las 5 grandes ligas europeas
 
+**EL ARCHIVO CON LA DATA DE LAS 5 LIGAS EUROPEAS SE ENCUENTRA EN ESTA CARPETA**
+
 En este estudio se quiere saber el promedio de puntos de todos los primeros 15 equipos de cada competición. El estudio necesita un nivel de confianza de 95% lo que también es igual a 5% de significancia, además se requiere un error máximo de 3 puntos en la estimación de la media.
 
 ### Realizar los siguientes tipos de muestreos:
